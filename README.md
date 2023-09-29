@@ -27,9 +27,9 @@ Week 6: Presentation and Conclusion
 
 References:
 Multimodal Federated Learning on IOT Data 
-(https://pure-research.york.ac.uk/ws/portalfiles/portal/ 79047763/2109.04833v2.pdf) 
+(https://pure-research.york.ac.uk/ws/portalfiles/portal/79047763/2109.04833v2.pdf) 
 Communication-Efficient learning of deep networks from decentralized data
-(http:// proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
+(http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
 
 team members responsibilities:
 Setup: Tianheng
